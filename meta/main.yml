@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: publish_cde
+  author: astudio
+  description: eedeq
+  company: deqdq
+  issue_tracker_url: fdeeqdedwqd
+  license: deqdq
+  min_ansible_version: ddqd
+  min_ansible_container_version: dqwdq
+  github_branch: dqdd
+  galaxy_tags:
+    - tag1
+  platforms:
+    - name: Debian
+      versions:
+        - all
+dependencies: []
